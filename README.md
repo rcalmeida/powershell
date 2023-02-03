@@ -1,2 +1,2 @@
 # powershell
-Yet another powershell repo!
+Yes, another powershell repo!
